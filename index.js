@@ -1,5 +1,5 @@
 
 let m = document.getElementById("#main");
 m.remove();
-let newHeader = document.createElement("h1 #victory");
+let newHeader = document.createElement("h1");
 newHeader.innerHTML = `${YOUR-NAME} is the champion`
